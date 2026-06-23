@@ -55,7 +55,7 @@ const Index = () => {
           {/* Contato */}
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 mb-6" style={revealStyle(isVisible, 200)}>
             <a
-              href="https://wa.me/5581992178724?text=estava%20no%20site%20e%20queria%20saber%20mais"
+              href="https://wa.me/5581992178724?text=Ol%C3%A1%2C%20vim%20pelo%20Google%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20rinoplastia."
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground/80 hover:text-gold transition-colors text-sm"

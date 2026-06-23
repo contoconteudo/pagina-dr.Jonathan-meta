@@ -106,7 +106,7 @@ const ProceduresSection = () => {
 
         <div style={revealStyle(isVisible, 700)} className="mt-10 md:mt-12">
           <a
-            href="https://wa.me/5581992178724"
+            href="https://wa.me/5581992178724?text=Ol%C3%A1%2C%20vim%20pelo%20Google%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20rinoplastia."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block btn-gold text-sm md:text-base px-6 md:px-8 py-3 md:py-4"
