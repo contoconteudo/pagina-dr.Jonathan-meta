@@ -51,7 +51,7 @@ const SimulationSection = () => {
 
           <div style={revealStyle(isVisible, 380)}>
             <a
-              href="https://wa.me/5581992178724?text=Ol%C3%A1%2C%20vim%20pelo%20Google%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20rinoplastia."
+              href="https://wa.me/5581992178724?text=Ol%C3%A1%2C%20vim%20pelo%20Instagram%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20rinoplastia."
               target="_blank"
               rel="noopener noreferrer"
               className="btn-gold inline-block"
